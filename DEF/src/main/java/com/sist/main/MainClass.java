@@ -6,6 +6,7 @@ public class MainClass {
 		System.out.println("asdad");
 		System.out.println("Siuuuuuuuuuuuuuuuuuuuuuuuu");
 		System.out.println("Siuuuuuuuuuuuuuuuuuuuuuuuuasdasdsaddas");
+		System.out.println("야호 그묘일이다~");
 	}
 
 }
